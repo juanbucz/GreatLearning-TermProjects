@@ -1,0 +1,146 @@
+Examining the bar count plot of Booking Months, we can make the following deductions:
+
+Highest occupancy is October (10)
+Highest occupancy month range is June (6) thru October (10), with a small decline occurring in July (7)
+Peak booking months are August (8) thru October(10)
+Lowest occupancy is in January (1)
+Lowest occupancy month range is November (11) thru April (5)
+January (1) and February (2) are the slowest months
+There is a notable increase in April (4) from March (3)  Is this due to school vacations?
+Its unclear why there would be a drop off between June (6) and July (7). **We are only examining 2 months of data. It would be interesting to see if additional years of data would show a consistent trend
+
+Dividing the Booking Months into Busy and Quiet seasons:
+
+Highest occupancy is October (10)
+Highest occupancy month range is June (6) thru October (10), with a small decline occurring in July (7)
+Peak booking months are August (8) thru October(10)
+Lowest occupancy is in January (1)
+Lowest occupancy month range is November (11) thru April (5)
+There is a notable increase in April (4) from March (3). Is this due to school vacations?
+Its unclear why there would be a drop off between June (6) and July (7). **We are only examining 2 months of data. It would be interesting to see if additional years of data would show a consistent trend
+
+Dividing the Booking Months into Peak and Other seasons:
+
+The peak booking season occurs between August (8) and October (10)
+Those 3 months (August – October) account for almost 40% of the years bookings.
+
+Examining the histogram of booking market segments, we can make the following observations:
+
+Highest market segment type is Online
+2nd highest is Offline 
+Corporate ranks a distance 3rd 
+Aviation and Complementary are almost negligible
+Complementary is free rooms. Unless it can be verified that comped rooms lead to future bookings, it would be advisable to keep this number low
+
+Examining Market Segment percentages relative to overall bookings:
+
+Online booking is by far the strongest market segment
+Offline still accounts for around 30% of all bookings
+Corporate ranks a distance 3rd 
+Aviation accounts for less than 1% of the bookings
+
+Examining Number of Guests we see:
+
+The number of Adult Guests is Normal Distribution
+Most rooms (72%) have 2 adults
+25% of rooms have a single adult occupant
+The number of Children is Left-Skew Distribution
+A surprisingly number of rooms have no children (93%)
+
+Examining Booking Lead Times we see:
+
+The Booking Lead Time data has a definite right skewed distribution 
+A majority of the bookings occur 100 days or less ahead of the customer’s arrival
+
+Examining Number of Days Booked we see:
+
+The Weekday Bookings plot looks like Normal Distribution with a Right-Skew
+The Weekend Bookings looks like a Right-Skew Distribution
+Zero (0)days booked indicate the customer booked only weekdays or weekends for their stay
+Most of the bookings had at least 1 weekday night included
+Roughly ½ the bookings had 2 weekend nights
+
+Examining Total Number of Days Booked we see:
+
+The total number of Bookings plot looks like Normal Distribution with a Right-Skew
+The Weekend Bookings looks like a Right-Skew Distribution
+Few clients book more than 7 days
+Zero (0)days booked looks like it could be a data error
+Most of the bookings had at least 1 weekday night included
+
+Examining Total Number of Days Booked we see:
+
+By binning the data, we get a slightly different view
+This looks much more like a normal distribution
+From this, we can see that almost 80% of the bookins are for between 2 and 7 nights
+
+Examining Booking Lead Times we see:
+
+The Booking Lead Time data has a definite right skewed distribution 
+A majority of the bookings occur 100 days or less ahead of the customer’s arrival
+
+Examining Previous Cancellations continued:
+
+Binning and plotting the percentages of the Booking Lead Time data reiterates the right skewed distribution
+2/3rds of clients book within 100 days of their arrival date
+A small percentage (11%) book more than 200 days in advance
+
+
+EExamining Booking Lead Times continued:
+
+Binning and plotting the percentages of the Booking Lead Time data reiterates the right skewed distribution
+2/3rds of clients book within 100 days of their arrival date
+A small percentage (11%) book more than 200 days in advance
+
+Examining Previous Cancellations continued:
+
+Binning and plotting the percentages of the Booking Lead Time data reiterates the right skewed distribution
+2/3rds of clients book within 100 days of their arrival date
+A small percentage (11%) book more than 200 days in advance
+
+Examining Previous Cancellations continued:
+
+Looking at the supplied matrix data, it appears that Previous Cancellations are minimal, especially when comparing against the number of clients that did not have Previous Cancellations
+
+Examining the histogram of repeat customer business, we can deduce the following:
+
+Most of the customers at this hotel are 1st time bookings
+There is very little (almost negligble) repeat business
+This might indicate that the hotel is good at drawing initial clients but poor at following through by reaching out to previous customers
+This also might speak to the level of quality of stay and service as when customers have a less than positive experience, they are not likely to rebook in the future
+Its unclear to what degree guests having a potentially negative experience affects the bookings initialized by word of mouth
+
+Examining Repeat Customers percentages relative to overall bookings:
+
+Roughly 98% of the bookings are from new customers
+Repeat customers make up less than 3% of the bookings
+Those are incredibly skewed results in favor of 1st time clients
+This is especially alarming for an industry where reputation (from word of mouth, online reviews) is important in sustaining a profitable business
+The hotel really has to take a step back and examine it’s operations, cultural enviornment and guest experience
+
+Examining remaining features:
+
+Room Type generally looks like a right-skewed distribution
+Most people book either Room Type 1 (79%) or Room Type 4 (16%)
+Parking Requirements -  Almost all clients do indicate a preference for required parking
+Special Requests is a right-skewed distribution
+Over ½ the bookings (54%) have no special requests 
+45% of the bookings have 1-2 special requests
+
+Examining the histogram of booking status, we can make the following observations:
+
+What we are really looking at here is the labeled net effect (Cancelled, Not Cancelled) which are contributed to by the other data features
+More bookings are Not Cancelled compared to Cancelled by a ratio of roughly 2 to 1
+That is a high number of cancellations that the business has to deal with
+Its not clear from this graph whether that ratio is consistent across the 2 years of data, or whether an event (weather, covid, economic) affected the results one of the years which would unduely sway the results
+
+
+
+
+Examining Booking Status percentages relative to overall bookings:
+
+Roughly 70% of the bookings are successful and not cancelled
+30%-ish cancellation rate is a very high rate of cancellation
+The high percentage of cancellations is huge cost for the business to absorb in terms of rebooking costs
+It’s not clear from the data as to how many of those cancellations end up getting successfully rebooked and at what room rate 
+It would be interesting the data set included more details surrounding booking prices and rebooking percentages to more accurately understand the costs
