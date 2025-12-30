@@ -1,0 +1,101 @@
+Customer_ID,City,Delivery_Time,Review
+C001,New York,28,"I'm consistently impressed with this service. Tonight, I decided to try the salmon teriyaki, and it was a fantastic choice. The fish was cooked to perfection—flaky and moist—and the teriyaki glaze was rich without being overly sweet. It was accompanied by a side of steamed vegetables that were still crisp and fresh. What really stands out is the delivery speed. The initial estimate was 40 minutes, but my meal arrived in just under 30. The driver was friendly and followed my delivery instructions to the letter. It's so refreshing to have a reliable option for a high-quality meal delivered right to my door."
+C002,Los Angeles,95,"This was an absolute disaster and I will not be ordering from here again. I placed my order well in advance, scheduling it for a 7:00 PM delivery. At 7:30 PM, the app still said the order was being prepared. I called the restaurant, and they assured me it was on its way. It finally arrived at 8:15 PM, over an hour late. When I opened the bag, I discovered they had sent the completely wrong order. I received someone else's sushi when I had ordered tacos. Trying to get this resolved with customer service was a nightmare of long holds and unhelpful agents. A truly terrible experience."
+C003,Chicago,58,"The experience was a mixed bag. On the one hand, the food itself was quite good. I ordered the chicken fettuccine alfredo, and the sauce was creamy and flavorful. However, the delivery aspect was less than ideal. The app's tracker showed the driver making multiple stops before heading to my location, and the delivery took about 20 minutes longer than the latest estimated time. By the time it arrived, the pasta was lukewarm and had to be reheated, which is always a bit of a letdown. It wasn't a terrible experience, but the delay and food temperature kept it from being great."
+C004,Houston,33,"This was my first time ordering, and it definitely won't be my last. I was hosting a small get-together and ordered a variety of appetizers and a couple of large pizzas. Everything arrived hot, fresh, and exactly as ordered. The 'Supreme' pizza was loaded with toppings, and the crust was perfectly crispy. Our guests couldn't stop complimenting the food. The delivery arrived right on schedule, which was crucial for our evening. The entire process, from browsing the menu on the app to the final delivery, was seamless and user-friendly. A five-star experience all around."
+C005,Phoenix,26,Incredibly fast delivery! The driver was courteous and the food was amazing. A+ experience.
+C006,Philadelphia,62,"My order was correct and the driver was polite, so no issues there. The delivery time was also within the window they provided. My main issue is with the food quality versus the price. I ordered a specialty sandwich that was quite expensive, and while it was okay, it didn't really live up to the description or the cost. The ingredients didn't taste particularly fresh, and the portion size was smaller than I anticipated. It was an acceptable meal, but for the price I paid, I was expecting something more impressive. It was just a very average, forgettable meal."
+C007,San Antonio,40,Great food and timely delivery. The portion sizes were generous. Very satisfied.
+C008,San Diego,31,"I've ordered from here several times and the quality is always top-notch. The ingredients are clearly fresh, and the chefs know what they're doing. My order always arrives hot, which is a huge plus. The delivery drivers are consistently polite and professional. It's my reliable choice for a delicious and hassle-free meal after a long day at work. I highly recommend the chicken parmesan; it's fantastic."
+C009,Dallas,22,Lightning-fast delivery! The food was still steaming when it arrived. Impressive!
+C010,San Jose,85,"I wish I could give zero stars. The delivery took nearly two hours. When the driver finally arrived, he was rude and just shoved the bag at me without a word. The food was, of course, stone cold. But the worst part was the quality. My burger was a greasy mess, the bun was completely soggy, and the lettuce was wilted and brown. The fries were a clump of cold, oily potato sticks. It was genuinely one of the most unappetizing meals I've ever received. I ended up throwing most of it in the trash. A complete waste of time and money."
+C011,Austin,38,The quality of the food is consistently excellent. Delivery is reliable and the drivers are friendly.
+C012,Jacksonville,55,"Food was okay, but the delivery was slow. It arrived later than the estimated time."
+C013,Fort Worth,30,I'm always happy with my orders from here. The food is delicious and the delivery is prompt.
+C014,Columbus,48,The food was as expected. The delivery time was reasonable.
+C015,Charlotte,42,"A fantastic experience from start to finish. Easy ordering, fast delivery, and incredible food."
+C016,San Francisco,25,Super quick delivery and the food was packed with care. Everything was perfect.
+C017,Indianapolis,70,The food was cold and soggy by the time it arrived. The delivery was extremely slow.
+C018,Seattle,34,"The food is always fresh and flavorful. The delivery service is top-notch. I particularly enjoyed the freshness of the ingredients in my salad, which is often a gamble with delivery. Everything was crisp and the dressing was on the side as requested. The driver followed my contact-free delivery instructions perfectly. A truly seamless and enjoyable dinner."
+C019,Denver,53,The food was satisfactory. The delivery time was average. Nothing special to report.
+C020,Washington,29,I was pleasantly surprised by how fast the delivery was. The food was excellent as always.
+C021,Boston,45,An average experience. The food was okay and the delivery was on time.
+C022,El Paso,41,Reliable service and delicious meals. I've never had a bad experience with them.
+C023,Detroit,32,"The delivery was even earlier than the estimated time. The food was hot and delicious. I ordered the spicy tuna roll and a miso soup, and both were restaurant quality. It's rare to get sushi delivered that tastes this fresh. I appreciate the attention to detail in the packaging, which kept everything at the right temperature. Will definitely be ordering again soon."
+C024,Nashville,64,"The food was decent, but I had to wait a while for the delivery. It wasn't late according to the app, but the initial estimate was quite long to begin with. The meal itself was fine, nothing to complain about but also nothing to get excited about. It served its purpose for a night when I didn't want to cook, but I'm not sure it would be my first choice next time. It was just a very standard, middle-of-the-road experience."
+C025,Portland,27,Exceptional service! The food is always on point and the delivery is incredibly fast.
+C026,Memphis,93,"I am beyond upset. Not only was my order an hour late, but they completely forgot one of the main entrees. I called the restaurant to let them know, and they were unhelpful and rude, telling me I had to go through the app for a refund. Now I have to wait several business days for my money back and one person in my family didn't get to eat dinner. A complete failure on all fronts. This ruined our evening."
+C027,Oklahoma City,36,Great variety of options and the delivery is always dependable. A happy customer here.
+C028,Las Vegas,49,The food was fine. The delivery time was within the expected range.
+C029,Louisville,24,"Wow, that was fast! The food was as good as dining in. Will be ordering again soon."
+C030,Baltimore,65,The delivery took longer than I would have liked. The food was alright.
+C031,Milwaukee,39,Consistently great food and service. The delivery drivers are always professional and polite.
+C032,Albuquerque,56,"The food was fine. The delivery was a bit slow, but not excessively so."
+C033,Tucson,34,My order arrived fresh and hot. The delivery was seamless. Very pleased.
+C034,Fresno,78,The delivery driver got lost and my food was cold. Not a good experience.
+C035,Sacramento,23,Incredibly efficient service. The food was delicious and the delivery was super fast.
+C036,Kansas City,46,A pretty standard delivery experience. The food was okay and it arrived on time.
+C037,Mesa,43,"The food is always worth the wait, but I didn't have to wait long at all! Great service."
+C038,Atlanta,60,The food was decent. The delivery was a little on the slow side.
+C039,Omaha,37,I can always count on them for a great meal and fast delivery. Highly recommended.
+C040,Colorado Springs,50,The food was acceptable. The delivery time was what I would consider average.
+C041,Raleigh,28,The delivery was so quick! The food was still piping hot and delicious. Thank you!
+C042,Miami,86,Extremely long wait for my food. It was cold and the quality was poor.
+C043,Long Beach,35,Always a positive experience. The food is tasty and the delivery is consistently on time.
+C044,Virginia Beach,61,"My order was correct. The delivery was a bit slow, but the food was fine."
+C045,Oakland,30,"Quick, easy, and delicious. The perfect meal delivery service. I'm a loyal customer."
+C046,Minneapolis,54,An unremarkable experience. The food was okay and the delivery was on time.
+C047,Tampa,44,The food is consistently good and the delivery is reliable. No complaints here.
+C048,Arlington,29,I'm impressed with the speed of the delivery. The food was fresh and tasty.
+C049,New Orleans,47,The food was alright. The delivery time was acceptable.
+C050,Cleveland,32,"Great food, great service. The delivery was prompt and the driver was friendly."
+C051,Bakersfield,71,The delivery was late and the food was not fresh. I would not order from here again.
+C052,Aurora,26,Super fast delivery and the food was amazing. I'll definitely be a repeat customer.
+C053,Anaheim,57,The food was decent enough. The delivery took a little longer than I hoped.
+C054,Honolulu,38,The food is always delicious and the delivery is dependable. A great option for a night in.
+C055,Santa Ana,51,The food was okay. The delivery time was average.
+C056,Riverside,27,I was very happy with how quickly my order arrived. The food was excellent.
+C057,Corpus Christi,66,"The delivery was a bit slow. The food was okay, but nothing to write home about."
+C058,Lexington,40,Consistently good food and reliable delivery. I've never been disappointed.
+C059,Stockton,59,A very average experience. The food was fine and the delivery was on time.
+C060,St. Paul,33,The delivery was on time and the food was fresh and hot. A great experience.
+C061,Cincinnati,96,My order was completely wrong and it took almost two hours to arrive. Unacceptable.
+C062,Greensboro,25,Incredibly fast and friendly service. The food was delicious. I'll be back for more.
+C063,Pittsburgh,48,The food was satisfactory. The delivery time was reasonable.
+C064,Irvine,39,The food is always top-quality and the delivery is efficient. A winning combination.
+C065,St. Louis,76,The food was cold and the delivery was significantly delayed. Very unhappy.
+C066,Orlando,31,My order arrived sooner than expected. The food was delicious and well-packaged.
+C067,Durham,63,The food was alright. The delivery took a bit longer than I would have preferred.
+C068,Plano,28,"Fast, friendly, and delicious. Everything you could want in a food delivery service."
+C069,Newark,52,The food was okay. The delivery time was average.
+C070,Chandler,36,The food is consistently great and the delivery is always on time. I'm a happy camper.
+C071,Laredo,46,A standard food delivery. The food was decent and it arrived on time.
+C072,Chula Vista,29,I'm always impressed with the speed and quality of the service. The food is fantastic.
+C073,Buffalo,58,"The food was fine. The delivery was a little slow, but not a major issue."
+C074,Madison,34,A reliable choice for a tasty meal delivered right to your door. Highly recommend.
+C075,Fort Wayne,50,The food was acceptable. The delivery time was within the estimated window.
+C076,Reno,27,The delivery was incredibly fast and the food was still hot and fresh. Excellent!
+C077,Gilbert,73,The delivery took much longer than the estimate and the food was cold and unappetizing.
+C078,Glendale,41,The food is always delicious and the delivery is prompt. A great overall experience.
+C079,Winston-Salem,64,The delivery was a bit on the slow side. The food was okay.
+C080,Scottsdale,35,I've ordered from here multiple times and it's always a great experience. Fast and tasty.
+C081,Irving,55,An average experience overall. The food was fine and the delivery was on time.
+C082,Garland,30,Quick delivery and the food was just as I expected - delicious! Will order again.
+C083,Chesapeake,47,The food was alright. The delivery time was what I would expect.
+C084,North Las Vegas,26,Super speedy delivery and the food was packed perfectly. Very satisfied with my order.
+C085,Fremont,60,The food was decent. The delivery took a little while.
+C086,Boise,37,The food is consistently good and the delivery is reliable. A great option for dinner.
+C087,Richmond,53,The food was okay. The delivery time was average.
+C088,San Bernardino,32,"My food arrived hot and fresh, and the delivery was very fast. I'm a happy customer."
+C089,Spokane,94,A very poor experience. The delivery was extremely late and the food was not worth the wait.
+C090,Tacoma,29,Excellent food and speedy delivery. I couldn't ask for more. Highly recommended.
+C091,Des Moines,49,The food was satisfactory. The delivery was on time.
+C092,Modesto,44,The food was delicious and the delivery was on time. A great experience overall.
+C093,Fontana,81,My food was cold and the delivery was over an hour late. I will not be ordering again.
+C094,Moreno Valley,84,The delivery was a nightmare. The driver couldn't find my address and the food was cold.
+C095,Fayetteville,75,I am very dissatisfied with my order. It was late and the food was cold and tasteless.
+C096,Yonkers,98,This was the worst delivery experience I've ever had. The food was inedible and it took forever to arrive.
+C097,Huntington Beach,79,The delivery was incredibly slow and the food was cold. I am very disappointed.
+C098,Montgomery,82,My order was late and the food was cold and bland. I would not recommend this place.
+C099,Amarillo,77,A very frustrating experience. The delivery was late and the food was not good at all.
+C100,Little Rock,31,"Great food, fast delivery!"
