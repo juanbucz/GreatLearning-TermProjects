@@ -1,37 +1,37 @@
 Customer_ID,Category,Tags,Suggested_Action,Confidence
-C001,Positive,"Delivery Time, Food Quality, Overall Experience","Highlight quality food, fast delivery, and friendly service.",High
-C002,Negative,"Delivery Time, Packaging, Food Quality, Overall Experience","Investigate wrong order, late delivery, and customer service.",High
-C003,Negative,"Delivery Time, Food Quality, Overall Experience","Improve delivery tracking and food temperature maintenance.",High
-C004,Positive,"Delivery Time, Food Quality, Overall Experience","Promote hot, fresh food and seamless ordering process.",High
-C005,Positive,"Delivery Time, Food Quality, Overall Experience","Emphasize fast delivery, courteous driver, and amazing food.",High
-C006,Negative,"Delivery Time, Food Quality, Price, Overall Experience","Review specialty sandwich quality, portion, and price alignment.",High
-C007,Positive,"Delivery Time, Food Quality, Overall Experience","Highlight great food, timely delivery, and generous portions.",High
-C008,Positive,"Delivery Time, Food Quality, Overall Experience","Promote consistent top-notch quality and professional drivers.",High
-C009,Positive,"Delivery Time, Overall Experience","Showcase lightning-fast delivery and hot food arrival.",High
-C010,Negative,"Delivery Time, Food Quality, Overall Experience","Address long delivery, rude driver, and poor food quality.",High
-C011,Neutral,"Delivery Time, Food Quality, Overall Experience","Emphasize consistent food quality and friendly drivers.",High
-C012,Negative,"Delivery Time, Food Quality","Improve delivery speed and ensure timely arrival.",High
-C013,Positive,"Delivery Time, Food Quality, Overall Experience","Highlight delicious food and prompt delivery service.",High
-C014,Neutral,"Delivery Time, Food Quality","Seek feedback to elevate food and delivery experience.",High
-C015,Positive,"Delivery Time, Food Quality, Overall Experience","Promote easy ordering, fast delivery, and incredible food.",High
-C016,Positive,"Delivery Time, Packaging, Overall Experience","Highlight quick delivery and careful food packaging.",High
-C017,Negative,"Delivery Time, Food Quality","Address cold, soggy food and extremely slow delivery.",High
-C018,Positive,"Delivery Time, Food Quality, Overall Experience","Emphasize fresh, flavorful food and top-notch delivery service.",High
-C019,Neutral,"Delivery Time, Food Quality","Identify areas to improve satisfactory food and average delivery.",High
-C020,Positive,"Delivery Time, Food Quality","Highlight fast delivery and consistently excellent food.",High
-C021,Neutral,"Delivery Time, Food Quality, Overall Experience","Survey customer to identify specific areas for improvement.",High
-C022,Positive,"Food Quality, Overall Experience","Promote reliable service and delicious meals for customer retention.",High
-C023,Positive,"Delivery Time, Food Quality, Packaging, Overall Experience","Highlight early delivery, hot food, and fresh sushi quality.",High
-C024,Negative,"Delivery Time, Food Quality, Overall Experience","Review initial delivery estimates and enhance meal excitement.",High
-C025,Positive,"Delivery Time, Food Quality, Overall Experience","Emphasize exceptional service, on-point food, and fast delivery.",High
-C026,Negative,"Delivery Time, Packaging, Food Quality, Overall Experience","Investigate late delivery, missing items, and unhelpful customer service.",High
-C027,Positive,"Delivery Time, Overall Experience","Promote great variety and dependable delivery service.",High
-C028,Neutral,"Delivery Time, Food Quality","Gather feedback to improve fine food and expected delivery.",High
-C029,Positive,"Delivery Time, Food Quality, Overall Experience","Showcase fast delivery and restaurant-quality food.",High
-C030,Negative,"Delivery Time, Food Quality","Address slow delivery times and improve food quality.",High
-C031,Positive,"Delivery Time, Food Quality, Overall Experience","Emphasize consistent food, professional drivers, and great service.",High
-C032,Neutral,"Delivery Time, Food Quality","Target slight delivery delays for improvement.",High
-C033,Positive,"Delivery Time, Food Quality, Overall Experience","Highlight fresh, hot food and seamless delivery experience.",High
-C034,Negative,"Delivery Time, Food Quality, Overall Experience","Improve driver navigation and food temperature control.",High
-C035,Positive,"Delivery Time, Food Quality, Overall Experience","Promote efficient service, delicious food, and super fast delivery.",High
-C036,Neutral,"Delivery Time, Food Quality, Overall Experience","Identify opportunities to make ""standard"" experience stand out.",High
+C001,Positive,"Delivery Time, Food Quality, Overall Experience","Maintain high standards for food quality and delivery speed",High
+C002,Negative,"Delivery Time, Packaging, Overall Experience","Address late deliveries, wrong orders, and poor customer service",High
+C003,Negative,"Delivery Time, Food Quality, Overall Experience","Optimize delivery routes to ensure timely and hot food",High
+C004,Positive,"Delivery Time, Food Quality, Overall Experience","Continue excellent service for large orders and events",High
+C005,Positive,"Delivery Time, Food Quality, Overall Experience","Maintain fast delivery and high food quality",High
+C006,Negative,"Food Quality, Price, Overall Experience","Review pricing, portion sizes, and food quality expectations",High
+C007,Positive,"Delivery Time, Food Quality, Overall Experience","Maintain generous portions and timely delivery",High
+C008,Positive,"Delivery Time, Food Quality, Overall Experience","Continue consistent quality and professional delivery service",High
+C009,Positive,"Delivery Time, Food Quality, Overall Experience","Highlight fast delivery and hot food in marketing",High
+C010,Negative,"Delivery Time, Food Quality, Overall Experience","Investigate and resolve issues with cold, poor quality food",High
+C011,Positive,"Delivery Time, Food Quality, Overall Experience","Maintain consistent food quality and reliable delivery",High
+C012,Negative,"Delivery Time, Food Quality","Improve delivery speed to meet customer expectations",High
+C013,Positive,"Delivery Time, Food Quality, Overall Experience","Maintain prompt delivery and delicious food",High
+C014,Neutral,"Delivery Time, Food Quality","Continue current service levels",High
+C015,Positive,"Delivery Time, Food Quality, Overall Experience","Maintain seamless ordering, fast delivery, and great food",High
+C016,Positive,"Delivery Time, Packaging, Overall Experience","Continue quick delivery and careful food packaging",High
+C017,Negative,"Delivery Time, Food Quality","Address slow delivery and cold, soggy food issues",High
+C018,Positive,"Delivery Time, Food Quality, Overall Experience","Maintain fresh food quality and top-notch delivery service",High
+C019,Neutral,"Delivery Time, Food Quality","Continue current service levels",High
+C020,Positive,"Delivery Time, Food Quality","Maintain fast delivery and excellent food quality",High
+C021,Neutral,"Delivery Time, Food Quality, Overall Experience","Continue current service levels",High
+C022,Positive,"Food Quality, Overall Experience","Maintain reliable service and delicious meals",High
+C023,Positive,"Delivery Time, Food Quality, Packaging, Overall Experience","Maintain early delivery, hot food, and quality packaging",High
+C024,Negative,"Delivery Time, Food Quality, Overall Experience","Review initial delivery time estimates for customer satisfaction",High
+C025,Positive,"Delivery Time, Food Quality, Overall Experience","Maintain exceptional service, food quality, and fast delivery",High
+C026,Negative,"Delivery Time, Packaging, Overall Experience","Address late deliveries, missing items, and poor customer service",High
+C027,Positive,"Delivery Time, Overall Experience","Maintain dependable delivery and diverse menu options",High
+C028,Neutral,"Delivery Time, Food Quality","Continue current service levels",High
+C029,Positive,"Delivery Time, Food Quality, Overall Experience","Maintain fast delivery and high food quality",High
+C030,Negative,"Delivery Time, Food Quality","Improve delivery speed to enhance customer satisfaction",High
+C031,Positive,"Delivery Time, Food Quality, Overall Experience","Maintain consistent food quality and professional delivery",High
+C032,Neutral,"Delivery Time, Food Quality","Address slow delivery times to improve customer experience",High
+C033,Positive,"Delivery Time, Food Quality, Overall Experience","Maintain fresh, hot food and seamless delivery",High
+C034,Negative,"Delivery Time, Food Quality, Overall Experience","Improve driver navigation and ensure food arrives hot",High
+C035,Positive,"Delivery Time, Food Quality, Overall Experience","Maintain efficient service, delicious food, and fast delivery",High
+C036,Neutral,"Delivery Time, Food Quality","Continue current service levels",High
